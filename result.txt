@@ -1,0 +1,2 @@
+app1=basic
+app2=OOP
