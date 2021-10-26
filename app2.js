@@ -9,7 +9,7 @@ while (true) {
   let player = new Player();
   let dealer = new Player();
 
-  // Handle player cardss
+  // Handle player cards
   while (true) {
     console.log(`Your hand: [ ${player.hand} ]\nScore: ${player.score}\n`);
 
